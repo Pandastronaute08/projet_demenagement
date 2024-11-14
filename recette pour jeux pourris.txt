@@ -1,0 +1,17 @@
+Recette du Jeu Pourri :
+Ingrédients :
+Un concept de jeu ultra basique : Un clone de jeu ultra connu, mais en version cheap (ex. un clone de Flappy Bird, de Snake, etc.).
+Des graphismes douteux : Images pixelisées et mal dimensionnées, ou une combinaison étrange de couleurs flashy.
+Des contrôles horribles : Assurez-vous qu’ils soient soit trop sensibles, soit pas assez, pour garantir une frustration maximale.
+Un manque de musique ou une musique en boucle agaçante : Trouvez une musique libre de droits, la plus agaçante possible, et faites-la tourner en boucle.
+Des bugs aléatoires : Des murs invisibles, des commandes qui se bloquent de temps en temps, bref, quelque chose pour surprendre (et énerver) les joueurs.
+Un niveau de difficulté injuste : Les ennemis ou obstacles qui apparaissent sans prévenir et des niveaux si durs que ça en devient presque impossible.
+Des récompenses inutiles : Par exemple, des objets qui ne font rien ou un score qui n’augmente jamais vraiment.
+Instructions :
+Choisir un concept : Prenez un concept classique ou simple (par exemple, un personnage qui saute d'une plateforme à l'autre).
+Créez les graphismes : Dessinez-les rapidement avec des formes basiques, ou trouvez des images pixelisées. Faites un mélange de styles pour rendre le tout incohérent visuellement.
+Implémentez des contrôles : Programmez-les pour qu'ils soient réactifs... une fois sur deux. Parfois, le bouton « sauter » devrait se bloquer sans raison.
+Ajoutez des bugs volontaires : Mettez quelques murs invisibles, des chutes infinies, ou des commandes qui répondent au hasard.
+Ajoutez des récompenses : Pour chaque niveau, offrez des récompenses, mais ne leur donnez aucun effet. Par exemple, un « boost de vitesse » qui ne fait rien.
+Tester (ou pas) : Faites des tests... mais pas trop ! L’idée, c’est d’être frustrant, donc les erreurs de jeu doivent rester.
+Et voilà, vous avez votre jeu pourri ! À offrir à vos amis pour un moment de rigolade... ou de frustration !
